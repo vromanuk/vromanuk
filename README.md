@@ -14,7 +14,7 @@
 </div>
 
 ### 👾 About Me :
-I am a Python Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Python Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇺🇦.
 - 👨‍💻 The crucial point for me in work is to find like-minded people and work on something inspiring.
 
 - 🤓 I was involved in different projects with different stacks and scale. I'm highly interested in developing and creating high-load services. Also, I'm trying to dive into DevOps and Network stuff
